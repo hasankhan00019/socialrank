@@ -1,0 +1,782 @@
+[
+  {
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "type": "Public",
+    "website": "cam.ac.uk",
+    "platforms": {
+      "Facebook": {
+        "followers": 434723,
+        "engagement_rate": 0.74,
+        "total_engagement": 77184,
+        "posts_per_week": 6,
+        "score": 47.2
+      },
+      "Instagram": {
+        "followers": 245815,
+        "engagement_rate": 9.58,
+        "total_engagement": 376784,
+        "posts_per_week": 4,
+        "score": 72.5
+      },
+      "Twitter": {
+        "followers": 241791,
+        "engagement_rate": 1.56,
+        "total_engagement": 90504,
+        "posts_per_week": 6,
+        "score": 32.0
+      },
+      "TikTok": {
+        "followers": 144733,
+        "engagement_rate": 15.22,
+        "total_engagement": 440560,
+        "posts_per_week": 5,
+        "score": 64.5
+      },
+      "YouTube": {
+        "followers": 238165,
+        "engagement_rate": 3.96,
+        "total_engagement": 150896,
+        "posts_per_week": 4,
+        "score": 43.6
+      },
+      "LinkedIn": {
+        "followers": 71173,
+        "engagement_rate": 5.77,
+        "total_engagement": 49272,
+        "posts_per_week": 3,
+        "score": 36.0
+      }
+    },
+    "combined_score": 49.3,
+    "rank": 1
+  },
+  {
+    "name": "Stanford University",
+    "country": "United States",
+    "type": "Private",
+    "website": "stanford.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 306571,
+        "engagement_rate": 1.15,
+        "total_engagement": 42300,
+        "posts_per_week": 3,
+        "score": 36.4
+      },
+      "Instagram": {
+        "followers": 169334,
+        "engagement_rate": 8.74,
+        "total_engagement": 355176,
+        "posts_per_week": 6,
+        "score": 60.6
+      },
+      "Twitter": {
+        "followers": 165859,
+        "engagement_rate": 3.34,
+        "total_engagement": 66468,
+        "posts_per_week": 3,
+        "score": 33.3
+      },
+      "TikTok": {
+        "followers": 167697,
+        "engagement_rate": 9.16,
+        "total_engagement": 430108,
+        "posts_per_week": 7,
+        "score": 62.6
+      },
+      "YouTube": {
+        "followers": 206921,
+        "engagement_rate": 4.34,
+        "total_engagement": 179600,
+        "posts_per_week": 5,
+        "score": 42.4
+      },
+      "LinkedIn": {
+        "followers": 49917,
+        "engagement_rate": 4.78,
+        "total_engagement": 66808,
+        "posts_per_week": 7,
+        "score": 28.9
+      }
+    },
+    "combined_score": 44.0,
+    "rank": 2
+  },
+  {
+    "name": "MIT",
+    "country": "United States",
+    "type": "Private",
+    "website": "mit.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 447782,
+        "engagement_rate": 0.75,
+        "total_engagement": 67160,
+        "posts_per_week": 5,
+        "score": 48.5
+      },
+      "Instagram": {
+        "followers": 138995,
+        "engagement_rate": 6.12,
+        "total_engagement": 170120,
+        "posts_per_week": 5,
+        "score": 44.5
+      },
+      "Twitter": {
+        "followers": 227163,
+        "engagement_rate": 1.89,
+        "total_engagement": 120204,
+        "posts_per_week": 7,
+        "score": 32.2
+      },
+      "TikTok": {
+        "followers": 190497,
+        "engagement_rate": 10.49,
+        "total_engagement": 319728,
+        "posts_per_week": 4,
+        "score": 69.0
+      },
+      "YouTube": {
+        "followers": 131677,
+        "engagement_rate": 3.23,
+        "total_engagement": 51036,
+        "posts_per_week": 3,
+        "score": 29.3
+      },
+      "LinkedIn": {
+        "followers": 96845,
+        "engagement_rate": 3.56,
+        "total_engagement": 96516,
+        "posts_per_week": 7,
+        "score": 27.5
+      }
+    },
+    "combined_score": 41.8,
+    "rank": 3
+  },
+  {
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "type": "Public",
+    "website": "ox.ac.uk",
+    "platforms": {
+      "Facebook": {
+        "followers": 215219,
+        "engagement_rate": 2.17,
+        "total_engagement": 93400,
+        "posts_per_week": 5,
+        "score": 32.4
+      },
+      "Instagram": {
+        "followers": 219390,
+        "engagement_rate": 6.5,
+        "total_engagement": 399280,
+        "posts_per_week": 7,
+        "score": 54.4
+      },
+      "Twitter": {
+        "followers": 234840,
+        "engagement_rate": 0.68,
+        "total_engagement": 19152,
+        "posts_per_week": 3,
+        "score": 26.9
+      },
+      "TikTok": {
+        "followers": 122715,
+        "engagement_rate": 10.29,
+        "total_engagement": 353556,
+        "posts_per_week": 7,
+        "score": 62.3
+      },
+      "YouTube": {
+        "followers": 184683,
+        "engagement_rate": 3.98,
+        "total_engagement": 176400,
+        "posts_per_week": 6,
+        "score": 38.4
+      },
+      "LinkedIn": {
+        "followers": 112460,
+        "engagement_rate": 4.68,
+        "total_engagement": 147364,
+        "posts_per_week": 7,
+        "score": 34.6
+      }
+    },
+    "combined_score": 41.5,
+    "rank": 4
+  },
+  {
+    "name": "Harvard University",
+    "country": "United States",
+    "type": "Private",
+    "website": "harvard.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 472076,
+        "engagement_rate": 1.26,
+        "total_engagement": 142752,
+        "posts_per_week": 6,
+        "score": 53.5
+      },
+      "Instagram": {
+        "followers": 362827,
+        "engagement_rate": 11.35,
+        "total_engagement": 823600,
+        "posts_per_week": 5,
+        "score": 86.3
+      },
+      "Twitter": {
+        "followers": 106855,
+        "engagement_rate": 0.38,
+        "total_engagement": 9744,
+        "posts_per_week": 6,
+        "score": 12.6
+      },
+      "TikTok": {
+        "followers": 85525,
+        "engagement_rate": 3.45,
+        "total_engagement": 82600,
+        "posts_per_week": 7,
+        "score": 25.8
+      },
+      "YouTube": {
+        "followers": 217162,
+        "engagement_rate": 4.11,
+        "total_engagement": 142800,
+        "posts_per_week": 4,
+        "score": 42.3
+      },
+      "LinkedIn": {
+        "followers": 53554,
+        "engagement_rate": 3.05,
+        "total_engagement": 19596,
+        "posts_per_week": 3,
+        "score": 20.6
+      }
+    },
+    "combined_score": 40.2,
+    "rank": 5
+  },
+  {
+    "name": "University of Toronto",
+    "country": "Canada",
+    "type": "Public",
+    "website": "utoronto.ca",
+    "platforms": {
+      "Facebook": {
+        "followers": 292170,
+        "engagement_rate": 0.35,
+        "total_engagement": 28616,
+        "posts_per_week": 7,
+        "score": 31.0
+      },
+      "Instagram": {
+        "followers": 265837,
+        "engagement_rate": 7.66,
+        "total_engagement": 325808,
+        "posts_per_week": 4,
+        "score": 64.9
+      },
+      "Twitter": {
+        "followers": 42570,
+        "engagement_rate": 1.61,
+        "total_engagement": 10960,
+        "posts_per_week": 4,
+        "score": 12.3
+      },
+      "TikTok": {
+        "followers": 130116,
+        "engagement_rate": 13.98,
+        "total_engagement": 291040,
+        "posts_per_week": 4,
+        "score": 63.0
+      },
+      "YouTube": {
+        "followers": 98694,
+        "engagement_rate": 4.35,
+        "total_engagement": 103032,
+        "posts_per_week": 6,
+        "score": 31.6
+      },
+      "LinkedIn": {
+        "followers": 23668,
+        "engagement_rate": 3.14,
+        "total_engagement": 20804,
+        "posts_per_week": 7,
+        "score": 18.1
+      }
+    },
+    "combined_score": 36.8,
+    "rank": 6
+  },
+  {
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "type": "Public",
+    "website": "nus.edu.sg",
+    "platforms": {
+      "Facebook": {
+        "followers": 270477,
+        "engagement_rate": 0.84,
+        "total_engagement": 54528,
+        "posts_per_week": 6,
+        "score": 31.2
+      },
+      "Instagram": {
+        "followers": 271321,
+        "engagement_rate": 6.14,
+        "total_engagement": 333180,
+        "posts_per_week": 5,
+        "score": 57.8
+      },
+      "Twitter": {
+        "followers": 23082,
+        "engagement_rate": 1.59,
+        "total_engagement": 8808,
+        "posts_per_week": 6,
+        "score": 10.3
+      },
+      "TikTok": {
+        "followers": 138459,
+        "engagement_rate": 12.3,
+        "total_engagement": 408720,
+        "posts_per_week": 6,
+        "score": 63.8
+      },
+      "YouTube": {
+        "followers": 142883,
+        "engagement_rate": 4.68,
+        "total_engagement": 187208,
+        "posts_per_week": 7,
+        "score": 37.7
+      },
+      "LinkedIn": {
+        "followers": 30214,
+        "engagement_rate": 1.82,
+        "total_engagement": 15372,
+        "posts_per_week": 7,
+        "score": 12.1
+      }
+    },
+    "combined_score": 35.5,
+    "rank": 7
+  },
+  {
+    "name": "Colorado State University",
+    "country": "United States",
+    "type": "Public",
+    "website": "colostate.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 87397,
+        "engagement_rate": 1.14,
+        "total_engagement": 19920,
+        "posts_per_week": 5,
+        "score": 14.4
+      },
+      "Instagram": {
+        "followers": 214844,
+        "engagement_rate": 4.5,
+        "total_engagement": 116004,
+        "posts_per_week": 3,
+        "score": 44.0
+      },
+      "Twitter": {
+        "followers": 142717,
+        "engagement_rate": 2.9,
+        "total_engagement": 99312,
+        "posts_per_week": 6,
+        "score": 28.8
+      },
+      "TikTok": {
+        "followers": 10726,
+        "engagement_rate": 13.79,
+        "total_engagement": 17748,
+        "posts_per_week": 3,
+        "score": 51.1
+      },
+      "YouTube": {
+        "followers": 87670,
+        "engagement_rate": 5.88,
+        "total_engagement": 82464,
+        "posts_per_week": 4,
+        "score": 38.2
+      },
+      "LinkedIn": {
+        "followers": 75420,
+        "engagement_rate": 2.54,
+        "total_engagement": 22980,
+        "posts_per_week": 3,
+        "score": 20.2
+      }
+    },
+    "combined_score": 32.8,
+    "rank": 8
+  },
+  {
+    "name": "University of Sydney",
+    "country": "Australia",
+    "type": "Public",
+    "website": "sydney.edu.au",
+    "platforms": {
+      "Facebook": {
+        "followers": 32202,
+        "engagement_rate": 1.05,
+        "total_engagement": 4056,
+        "posts_per_week": 3,
+        "score": 8.5
+      },
+      "Instagram": {
+        "followers": 169480,
+        "engagement_rate": 4.14,
+        "total_engagement": 196448,
+        "posts_per_week": 7,
+        "score": 37.6
+      },
+      "Twitter": {
+        "followers": 160172,
+        "engagement_rate": 3.0,
+        "total_engagement": 57660,
+        "posts_per_week": 3,
+        "score": 31.0
+      },
+      "TikTok": {
+        "followers": 111138,
+        "engagement_rate": 12.96,
+        "total_engagement": 172836,
+        "posts_per_week": 3,
+        "score": 61.1
+      },
+      "YouTube": {
+        "followers": 58123,
+        "engagement_rate": 4.41,
+        "total_engagement": 41008,
+        "posts_per_week": 4,
+        "score": 27.9
+      },
+      "LinkedIn": {
+        "followers": 41203,
+        "engagement_rate": 4.66,
+        "total_engagement": 38400,
+        "posts_per_week": 5,
+        "score": 27.4
+      }
+    },
+    "combined_score": 32.3,
+    "rank": 9
+  },
+  {
+    "name": "James Madison University",
+    "country": "United States",
+    "type": "Public",
+    "website": "jmu.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 272177,
+        "engagement_rate": 0.9,
+        "total_engagement": 68572,
+        "posts_per_week": 7,
+        "score": 31.7
+      },
+      "Instagram": {
+        "followers": 241134,
+        "engagement_rate": 3.73,
+        "total_engagement": 179880,
+        "posts_per_week": 5,
+        "score": 42.8
+      },
+      "Twitter": {
+        "followers": 125716,
+        "engagement_rate": 2.81,
+        "total_engagement": 84768,
+        "posts_per_week": 6,
+        "score": 26.6
+      },
+      "TikTok": {
+        "followers": 137971,
+        "engagement_rate": 3.83,
+        "total_engagement": 84544,
+        "posts_per_week": 4,
+        "score": 32.9
+      },
+      "YouTube": {
+        "followers": 110344,
+        "engagement_rate": 3.71,
+        "total_engagement": 49116,
+        "posts_per_week": 3,
+        "score": 29.6
+      },
+      "LinkedIn": {
+        "followers": 79159,
+        "engagement_rate": 3.75,
+        "total_engagement": 83104,
+        "posts_per_week": 7,
+        "score": 26.7
+      }
+    },
+    "combined_score": 31.7,
+    "rank": 10
+  },
+  {
+    "name": "ETH Zurich",
+    "country": "Switzerland",
+    "type": "Public",
+    "website": "ethz.ch",
+    "platforms": {
+      "Facebook": {
+        "followers": 236858,
+        "engagement_rate": 0.32,
+        "total_engagement": 15140,
+        "posts_per_week": 5,
+        "score": 25.3
+      },
+      "Instagram": {
+        "followers": 39328,
+        "engagement_rate": 8.74,
+        "total_engagement": 82488,
+        "posts_per_week": 6,
+        "score": 47.6
+      },
+      "Twitter": {
+        "followers": 40974,
+        "engagement_rate": 2.82,
+        "total_engagement": 23100,
+        "posts_per_week": 5,
+        "score": 18.2
+      },
+      "TikTok": {
+        "followers": 94710,
+        "engagement_rate": 3.95,
+        "total_engagement": 104748,
+        "posts_per_week": 7,
+        "score": 29.2
+      },
+      "YouTube": {
+        "followers": 131977,
+        "engagement_rate": 3.49,
+        "total_engagement": 92100,
+        "posts_per_week": 5,
+        "score": 30.6
+      },
+      "LinkedIn": {
+        "followers": 57752,
+        "engagement_rate": 4.61,
+        "total_engagement": 31944,
+        "posts_per_week": 3,
+        "score": 28.8
+      }
+    },
+    "combined_score": 30.0,
+    "rank": 11
+  },
+  {
+    "name": "University of Iowa",
+    "country": "United States",
+    "type": "Public",
+    "website": "uiowa.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 233551,
+        "engagement_rate": 1.71,
+        "total_engagement": 79860,
+        "posts_per_week": 5,
+        "score": 31.9
+      },
+      "Instagram": {
+        "followers": 11392,
+        "engagement_rate": 7.83,
+        "total_engagement": 14256,
+        "posts_per_week": 4,
+        "score": 40.3
+      },
+      "Twitter": {
+        "followers": 72217,
+        "engagement_rate": 1.95,
+        "total_engagement": 28160,
+        "posts_per_week": 5,
+        "score": 17.0
+      },
+      "TikTok": {
+        "followers": 92219,
+        "engagement_rate": 4.1,
+        "total_engagement": 45360,
+        "posts_per_week": 3,
+        "score": 29.7
+      },
+      "YouTube": {
+        "followers": 7935,
+        "engagement_rate": 5.35,
+        "total_engagement": 10176,
+        "posts_per_week": 6,
+        "score": 27.5
+      },
+      "LinkedIn": {
+        "followers": 89359,
+        "engagement_rate": 4.43,
+        "total_engagement": 47496,
+        "posts_per_week": 3,
+        "score": 31.1
+      }
+    },
+    "combined_score": 29.6,
+    "rank": 12
+  },
+  {
+    "name": "Boston University",
+    "country": "United States",
+    "type": "Private",
+    "website": "bu.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 8739,
+        "engagement_rate": 1.38,
+        "total_engagement": 3360,
+        "posts_per_week": 7,
+        "score": 7.8
+      },
+      "Instagram": {
+        "followers": 79809,
+        "engagement_rate": 5.0,
+        "total_engagement": 95760,
+        "posts_per_week": 6,
+        "score": 33.0
+      },
+      "Twitter": {
+        "followers": 181016,
+        "engagement_rate": 2.5,
+        "total_engagement": 126700,
+        "posts_per_week": 7,
+        "score": 30.6
+      },
+      "TikTok": {
+        "followers": 53211,
+        "engagement_rate": 7.49,
+        "total_engagement": 47820,
+        "posts_per_week": 3,
+        "score": 42.8
+      },
+      "YouTube": {
+        "followers": 81198,
+        "engagement_rate": 4.77,
+        "total_engagement": 61968,
+        "posts_per_week": 4,
+        "score": 32.0
+      },
+      "LinkedIn": {
+        "followers": 102724,
+        "engagement_rate": 3.07,
+        "total_engagement": 50448,
+        "posts_per_week": 4,
+        "score": 25.6
+      }
+    },
+    "combined_score": 28.6,
+    "rank": 13
+  },
+  {
+    "name": "University of Melbourne",
+    "country": "Australia",
+    "type": "Public",
+    "website": "unimelb.edu.au",
+    "platforms": {
+      "Facebook": {
+        "followers": 48219,
+        "engagement_rate": 0.24,
+        "total_engagement": 3220,
+        "posts_per_week": 7,
+        "score": 6.0
+      },
+      "Instagram": {
+        "followers": 96245,
+        "engagement_rate": 5.22,
+        "total_engagement": 60276,
+        "posts_per_week": 3,
+        "score": 35.7
+      },
+      "Twitter": {
+        "followers": 205735,
+        "engagement_rate": 2.88,
+        "total_engagement": 142200,
+        "posts_per_week": 6,
+        "score": 35.0
+      },
+      "TikTok": {
+        "followers": 6173,
+        "engagement_rate": 4.84,
+        "total_engagement": 4768,
+        "posts_per_week": 4,
+        "score": 24.8
+      },
+      "YouTube": {
+        "followers": 141951,
+        "engagement_rate": 3.3,
+        "total_engagement": 56208,
+        "posts_per_week": 3,
+        "score": 30.7
+      },
+      "LinkedIn": {
+        "followers": 56107,
+        "engagement_rate": 2.75,
+        "total_engagement": 30840,
+        "posts_per_week": 5,
+        "score": 19.4
+      }
+    },
+    "combined_score": 25.3,
+    "rank": 14
+  },
+  {
+    "name": "Arizona State University",
+    "country": "United States",
+    "type": "Public",
+    "website": "asu.edu",
+    "platforms": {
+      "Facebook": {
+        "followers": 147459,
+        "engagement_rate": 0.52,
+        "total_engagement": 12256,
+        "posts_per_week": 4,
+        "score": 17.3
+      },
+      "Instagram": {
+        "followers": 99272,
+        "engagement_rate": 3.22,
+        "total_engagement": 89488,
+        "posts_per_week": 7,
+        "score": 26.0
+      },
+      "Twitter": {
+        "followers": 129613,
+        "engagement_rate": 1.28,
+        "total_engagement": 46452,
+        "posts_per_week": 7,
+        "score": 19.4
+      },
+      "TikTok": {
+        "followers": 86287,
+        "engagement_rate": 4.94,
+        "total_engagement": 85240,
+        "posts_per_week": 5,
+        "score": 33.3
+      },
+      "YouTube": {
+        "followers": 149828,
+        "engagement_rate": 1.79,
+        "total_engagement": 42896,
+        "posts_per_week": 4,
+        "score": 23.9
+      },
+      "LinkedIn": {
+        "followers": 9660,
+        "engagement_rate": 2.86,
+        "total_engagement": 6624,
+        "posts_per_week": 6,
+        "score": 15.3
+      }
+    },
+    "combined_score": 22.5,
+    "rank": 15
+  }
+]
